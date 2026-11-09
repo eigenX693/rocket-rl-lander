@@ -1,0 +1,9 @@
+- OS: Linux-6.6.159+-x86_64-with-glibc2.39 # 1 SMP Thu Oct 22 03:07:54 UTC 2026
+- Python: 3.13.18
+- Stable-Baselines3: 2.9.2
+- PyTorch: 2.14.1+cpu
+- GPU Enabled: False
+- Numpy: 2.4.6
+- Cloudpickle: 3.1.2
+- Gymnasium: 1.4.0
+- OpenAI Gym: 0.25.2

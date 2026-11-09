@@ -1,0 +1,9 @@
+{
+  "env": "LunarLander-v3",
+  "timesteps": 500000,
+  "seed": 0,
+  "shaping_bonus": 0.0,
+  "eval_episodes": 100,
+  "mean_reward": 223.44681437,
+  "success_rate": 0.89
+}
